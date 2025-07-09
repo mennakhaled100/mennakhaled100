@@ -28,4 +28,4 @@ I love building small projects while picking up new skills every day. 🚀
 ---
 
 ## 😄 Fun Fact
-I love tackling coding challenges! Sometimes I spend hours debugging just to see that sweet "Success" message on my screen! 🖥️
+I love tackling coding challenges! Sometimes I spend hours debugging just to see that sweet "accepted" message on my screen! 🖥️
